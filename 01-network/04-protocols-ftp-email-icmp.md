@@ -3,7 +3,7 @@ title: "[Network] 계층별 프로토콜의 특징과 차이점 — FTP, SMTP, P
 date: 2026-11-16
 updated: 2026-11-16
 category: "네트워크"
-tags: []
+tags: [리팩토링]
 original: ""
 ---
 
