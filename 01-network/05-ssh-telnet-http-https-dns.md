@@ -4,7 +4,7 @@ date: 2026-11-22
 updated: 2026-11-23
 category: "네트워크"
 tags: []
-original: https://velog.io/@xjoker7272/7%EC%A3%BC%EC%B0%A8-SSH-Telnet-HTTP-HTTPS-DNS%EC%9D%98-%ED%8A%B9%EC%A7%95%EA%B3%BC-%EC%B0%A8%EC%9D%B4%EC%A0%90
+original: https://velog.io/@xjoker7272/6%EC%A3%BC%EC%B0%A8-SSH-Telnet-HTTP-HTTPS-DNS%EC%9D%98-%ED%8A%B9%EC%A7%95%EA%B3%BC-%EC%B0%A8%EC%9D%B4%EC%A0%90
 ---
 
 ## 들어가며
