@@ -1,137 +1,66 @@
 {
   "source": "https://velog.io/@xjoker7272",
   "target_repo": "cloud-security-study",
-  "migrated_at": "2026-11-15T03:51:39.069Z",
-  "discovered": 16,
-  "extracted": 16,
-  "markdown_files": 16,
+  "migrated_at": "2026-11-18T16:03:43.283Z",
+  "discovered": 17,
+  "extracted": 17,
+  "markdown_files": 17,
   "duplicates": 0,
   "missing": 0,
   "images": {
     "found": 27,
-    "downloaded_separately": 27,
     "failed": 0
   },
   "posts": [
     {
-      "title": "0주차 과제-기본개념 정리 과제",
-      "url_slug": "0주차-기본개념-정리-과제",
-      "original_url": "https://velog.io/@xjoker7272/0%EC%A3%BC%EC%B0%A8-%EA%B8%B0%EB%B3%B8%EA%B0%9C%EB%85%90-%EC%A0%95%EB%A6%AC-%EA%B3%BC%EC%A0%9C",
-      "released_at": "2026-07-10T12:30:12.474Z",
-      "updated_at": "2026-11-15T01:20:43.312Z",
+      "title": "2주차- OSI 7 Layer",
+      "url_slug": "2주차-OSI-7-Layer",
+      "original_url": "https://velog.io/@xjoker7272/2%EC%A3%BC%EC%B0%A8-OSI-7-Layer",
+      "released_at": "2026-10-25T14:29:31.033Z",
+      "updated_at": "2026-11-15T03:47:50.473Z",
       "tags": [
-        "알토르IT기초과정"
+        "리팩토링"
       ],
-      "category": "프로그래밍 기초",
-      "file_path": "05-programming/01-basic-concepts.md",
-      "body_chars": 2398,
-      "image_count": 3,
-      "status": "extracted (images: url preserved)"
+      "category": "네트워크",
+      "file_path": "01-network/01-osi-7-layers.md",
+      "body_chars": 11485,
+      "image_count": 0
     },
     {
-      "title": "1주차 과제-CSS/JS 기초",
-      "url_slug": "1주차-과제-CSSJS-기초",
-      "original_url": "https://velog.io/@xjoker7272/1%EC%A3%BC%EC%B0%A8-%EA%B3%BC%EC%A0%9C-CSSJS-%EA%B8%B0%EC%B4%88",
-      "released_at": "2026-07-19T09:55:09.628Z",
-      "updated_at": "2026-11-01T21:35:49.534Z",
-      "tags": [
-        "알토르IT기초과정"
-      ],
-      "category": "프로그래밍 기초",
-      "file_path": "05-programming/02-css-js-basics.md",
-      "body_chars": 5084,
-      "image_count": 13,
-      "status": "extracted (images: url preserved)"
+      "title": "3주차-TCP와 UDP의 특징 및 차이점 — 헤더 구조부터 통신 원리까지",
+      "url_slug": "Network-TCP와-UDP의-특징-및-차이점-헤더-구조부터-통신-원리까지",
+      "original_url": "https://velog.io/@xjoker7272/Network-TCP%EC%99%80-UDP%EC%9D%98-%ED%8A%B9%EC%A7%95-%EB%B0%8F-%EC%B0%A8%EC%9D%B4%EC%A0%90-%ED%97%A4%EB%8D%94-%EA%B5%AC%EC%A1%B0%EB%B6%80%ED%84%B0-%ED%86%B5%EC%8B%A0-%EC%9B%90%EB%A6%AC%EA%B9%8C%EC%A7%80",
+      "released_at": "2026-11-05T14:26:09.511Z",
+      "updated_at": "2026-11-17T22:52:45.717Z",
+      "tags": [],
+      "category": "네트워크",
+      "file_path": "01-network/02-tcp-vs-udp.md",
+      "body_chars": 9682,
+      "image_count": 0
     },
     {
-      "title": "2주차 과제-SPA/MPA, REACT, 그리고 JSX",
-      "url_slug": "2주차-과제",
-      "original_url": "https://velog.io/@xjoker7272/2%EC%A3%BC%EC%B0%A8-%EA%B3%BC%EC%A0%9C",
-      "released_at": "2026-07-26T02:48:39.307Z",
-      "updated_at": "2026-11-02T07:27:59.714Z",
-      "tags": [
-        "알토르IT기초과정"
-      ],
-      "category": "프로그래밍 기초",
-      "file_path": "05-programming/03-spa-mpa-react-jsx.md",
-      "body_chars": 6669,
-      "image_count": 6,
-      "status": "extracted (images: url preserved)"
+      "title": "4주차-OSI 1~4계층 네트워크 장비 총정리 — 허브, 스위치, 라우터, 로드밸런서",
+      "url_slug": "4주차-OSI-14계층-네트워크-장비-총정리-허브-스위치-라우터-로드밸런서",
+      "original_url": "https://velog.io/@xjoker7272/4%EC%A3%BC%EC%B0%A8-OSI-14%EA%B3%84%EC%B8%B5-%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC-%EC%9E%A5%EB%B9%84-%EC%B4%9D%EC%A0%95%EB%A6%AC-%ED%97%88%EB%B8%8C-%EC%8A%A4%EC%9C%84%EC%B9%98-%EB%9D%BC%EC%9A%B0%ED%84%B0-%EB%A1%9C%EB%93%9C%EB%B0%B8%EB%9F%B0%EC%84%9C",
+      "released_at": "2026-11-15T03:36:12.123Z",
+      "updated_at": "2026-11-17T22:54:38.874Z",
+      "tags": [],
+      "category": "네트워크",
+      "file_path": "01-network/03-network-devices.md",
+      "body_chars": 13055,
+      "image_count": 0
     },
     {
-      "title": "3주차 과제-Next.js vs REACT",
-      "url_slug": "3주차-과제-Next.js-vs-REACT",
-      "original_url": "https://velog.io/@xjoker7272/3%EC%A3%BC%EC%B0%A8-%EA%B3%BC%EC%A0%9C-Next.js-vs-REACT",
-      "released_at": "2026-08-02T05:55:17.870Z",
-      "updated_at": "2026-11-08T17:32:01.726Z",
-      "tags": [
-        "알토르IT기초과정"
-      ],
-      "category": "프로그래밍 기초",
-      "file_path": "05-programming/04-nextjs-vs-react.md",
-      "body_chars": 3966,
-      "image_count": 0,
-      "status": "extracted"
-    },
-    {
-      "title": "4주차-호스팅,클라우드,그리고 Git",
-      "url_slug": "4주차-호스팅클라우드그리고-Git",
-      "original_url": "https://velog.io/@xjoker7272/4%EC%A3%BC%EC%B0%A8-%ED%98%B8%EC%8A%A4%ED%8C%85%ED%81%B4%EB%9D%BC%EC%9A%B0%EB%93%9C%EA%B7%B8%EB%A6%AC%EA%B3%A0-Git",
-      "released_at": "2026-08-09T09:19:45.777Z",
-      "updated_at": "2026-11-14T21:39:11.999Z",
-      "tags": [
-        "알토르IT기초과정"
-      ],
-      "category": "클라우드·AWS",
-      "file_path": "03-aws/01-hosting-cloud-git.md",
-      "body_chars": 2477,
-      "image_count": 1,
-      "status": "extracted (images: url preserved)"
-    },
-    {
-      "title": "5주차-챗봇 제작, Vercel, 도메인",
-      "url_slug": "5주차-챗봇-제작-Vercel-도메인",
-      "original_url": "https://velog.io/@xjoker7272/5%EC%A3%BC%EC%B0%A8-%EC%B1%97%EB%B4%87-%EC%A0%9C%EC%9E%91-Vercel-%EB%8F%84%EB%A9%94%EC%9D%B8",
-      "released_at": "2026-08-17T03:31:38.884Z",
-      "updated_at": "2026-11-05T12:10:59.833Z",
-      "tags": [
-        "알토르IT기초과정"
-      ],
-      "category": "프로젝트",
-      "file_path": "06-projects/01-chatbot-vercel-domain.md",
-      "body_chars": 2544,
-      "image_count": 2,
-      "status": "extracted (images: url preserved)"
-    },
-    {
-      "title": "6주차 SPA,MPA 개념 이해하기",
-      "url_slug": "6주차-SPAMPA-개념-이해하기",
-      "original_url": "https://velog.io/@xjoker7272/6%EC%A3%BC%EC%B0%A8-SPAMPA-%EA%B0%9C%EB%85%90-%EC%9D%B4%ED%95%B4%ED%95%98%EA%B8%B0",
-      "released_at": "2026-08-23T08:51:27.352Z",
-      "updated_at": "2026-11-11T09:40:37.961Z",
-      "tags": [
-        "알토르IT기초과정"
-      ],
-      "category": "프로그래밍 기초",
-      "file_path": "05-programming/05-spa-mpa-concepts.md",
-      "body_chars": 9181,
-      "image_count": 0,
-      "status": "extracted"
-    },
-    {
-      "title": "7주차-api 만들기,/sendmessage,챗봇,",
-      "url_slug": "7주차-api-만들기sendmessage챗봇",
-      "original_url": "https://velog.io/@xjoker7272/7%EC%A3%BC%EC%B0%A8-api-%EB%A7%8C%EB%93%A4%EA%B8%B0sendmessage%EC%B1%97%EB%B4%87",
-      "released_at": "2026-08-30T08:31:59.366Z",
-      "updated_at": "2026-11-12T01:33:12.504Z",
-      "tags": [
-        "알토르IT기초과정"
-      ],
-      "category": "프로젝트",
-      "file_path": "06-projects/02-api-sendmessage-chatbot.md",
-      "body_chars": 4976,
-      "image_count": 1,
-      "status": "extracted (images: url preserved)"
+      "title": "5주차-[Network] 계층별 프로토콜의 특징과 차이점 — FTP, SMTP, POP3, IMAP, ICMP",
+      "url_slug": "5주차-Network-계층별-프로토콜의-특징과-차이점-FTP-SMTP-POP3-IMAP-ICMP",
+      "original_url": "https://velog.io/@xjoker7272/5%EC%A3%BC%EC%B0%A8-Network-%EA%B3%84%EC%B8%B5%EB%B3%84-%ED%94%84%EB%A1%9C%ED%86%A0%EC%BD%9C%EC%9D%98-%ED%8A%B9%EC%A7%95%EA%B3%BC-%EC%B0%A8%EC%9D%B4%EC%A0%90-FTP-SMTP-POP3-IMAP-ICMP",
+      "released_at": "2026-11-17T22:58:10.098Z",
+      "updated_at": "2026-11-18T08:53:18.688Z",
+      "tags": [],
+      "category": "네트워크",
+      "file_path": "01-network/04-protocols-by-layer.md",
+      "body_chars": 13626,
+      "image_count": 0
     },
     {
       "title": "8주차-nginx,서브도메인,SSL",
@@ -145,8 +74,21 @@
       "category": "서버·리눅스",
       "file_path": "02-linux/01-nginx-subdomain-ssl.md",
       "body_chars": 6438,
-      "image_count": 0,
-      "status": "extracted"
+      "image_count": 0
+    },
+    {
+      "title": "4주차-호스팅,클라우드,그리고 Git",
+      "url_slug": "4주차-호스팅클라우드그리고-Git",
+      "original_url": "https://velog.io/@xjoker7272/4%EC%A3%BC%EC%B0%A8-%ED%98%B8%EC%8A%A4%ED%8C%85%ED%81%B4%EB%9D%BC%EC%9A%B0%EB%93%9C%EA%B7%B8%EB%A6%AC%EA%B3%A0-Git",
+      "released_at": "2026-08-09T09:19:45.777Z",
+      "updated_at": "2026-11-17T16:52:07.772Z",
+      "tags": [
+        "알토르IT기초과정"
+      ],
+      "category": "클라우드·AWS",
+      "file_path": "03-aws/01-hosting-cloud-git.md",
+      "body_chars": 2477,
+      "image_count": 1
     },
     {
       "title": "10주차-Scale up과 Scale out",
@@ -160,38 +102,7 @@
       "category": "클라우드·AWS",
       "file_path": "03-aws/02-scale-up-vs-scale-out.md",
       "body_chars": 420,
-      "image_count": 1,
-      "status": "extracted (images: url preserved)"
-    },
-    {
-      "title": "11주차-DB-RDBMS와 NOSQL",
-      "url_slug": "11주차-DB-RDBMS와-NOSQL",
-      "original_url": "https://velog.io/@xjoker7272/11%EC%A3%BC%EC%B0%A8-DB-RDBMS%EC%99%80-NOSQL",
-      "released_at": "2026-09-28T06:29:14.894Z",
-      "updated_at": "2026-10-18T01:26:30.461Z",
-      "tags": [
-        "알토르IT기초과정"
-      ],
-      "category": "프로그래밍 기초",
-      "file_path": "05-programming/06-rdbms-vs-nosql.md",
-      "body_chars": 2781,
-      "image_count": 0,
-      "status": "extracted"
-    },
-    {
-      "title": "Pguso/agents-from-scratch",
-      "url_slug": "Pgusoagents-from-scratch",
-      "original_url": "https://velog.io/@xjoker7272/Pgusoagents-from-scratch",
-      "released_at": "2026-09-29T10:46:31.918Z",
-      "updated_at": "2026-11-11T03:10:40.525Z",
-      "tags": [
-        "dailyCoding"
-      ],
-      "category": "프로젝트",
-      "file_path": "06-projects/03-agents-from-scratch.md",
-      "body_chars": 5819,
-      "image_count": 0,
-      "status": "extracted"
+      "image_count": 1
     },
     {
       "title": "1주차-클라우드는 안전한데 왜 사고가 날까?",
@@ -205,49 +116,133 @@
       "category": "클라우드 보안",
       "file_path": "04-cloud-security/01-why-cloud-incidents-happen.md",
       "body_chars": 7505,
-      "image_count": 0,
-      "status": "extracted"
+      "image_count": 0
     },
     {
-      "title": "2주차- OSI 7 Layer",
-      "url_slug": "2주차-OSI-7-Layer",
-      "original_url": "https://velog.io/@xjoker7272/2%EC%A3%BC%EC%B0%A8-OSI-7-Layer",
-      "released_at": "2026-10-25T14:29:31.033Z",
-      "updated_at": "2026-11-15T03:47:50.473Z",
+      "title": "0주차 과제-기본개념 정리 과제",
+      "url_slug": "0주차-기본개념-정리-과제",
+      "original_url": "https://velog.io/@xjoker7272/0%EC%A3%BC%EC%B0%A8-%EA%B8%B0%EB%B3%B8%EA%B0%9C%EB%85%90-%EC%A0%95%EB%A6%AC-%EA%B3%BC%EC%A0%9C",
+      "released_at": "2026-07-10T12:30:12.474Z",
+      "updated_at": "2026-11-15T01:20:43.312Z",
       "tags": [
-        "리팩토링"
+        "알토르IT기초과정"
       ],
-      "category": "네트워크",
-      "file_path": "01-network/01-osi-7-layers.md",
-      "body_chars": 11485,
-      "image_count": 0,
-      "status": "extracted"
+      "category": "프로그래밍 기초",
+      "file_path": "05-programming/01-basic-concepts.md",
+      "body_chars": 2398,
+      "image_count": 3
     },
     {
-      "title": "3주차-TCP와 UDP의 특징 및 차이점 — 헤더 구조부터 통신 원리까지",
-      "url_slug": "Network-TCP와-UDP의-특징-및-차이점-헤더-구조부터-통신-원리까지",
-      "original_url": "https://velog.io/@xjoker7272/Network-TCP%EC%99%80-UDP%EC%9D%98-%ED%8A%B9%EC%A7%95-%EB%B0%8F-%EC%B0%A8%EC%9D%B4%EC%A0%90-%ED%97%A4%EB%8D%94-%EA%B5%AC%EC%A1%B0%EB%B6%80%ED%84%B0-%ED%86%B5%EC%8B%A0-%EC%9B%90%EB%A6%AC%EA%B9%8C%EC%A7%80",
-      "released_at": "2026-11-05T14:26:09.511Z",
-      "updated_at": "2026-11-14T09:10:07.847Z",
-      "tags": [],
-      "category": "네트워크",
-      "file_path": "01-network/02-tcp-vs-udp.md",
-      "body_chars": 9682,
-      "image_count": 0,
-      "status": "extracted"
+      "title": "1주차 과제-CSS/JS 기초",
+      "url_slug": "1주차-과제-CSSJS-기초",
+      "original_url": "https://velog.io/@xjoker7272/1%EC%A3%BC%EC%B0%A8-%EA%B3%BC%EC%A0%9C-CSSJS-%EA%B8%B0%EC%B4%88",
+      "released_at": "2026-07-19T09:55:09.628Z",
+      "updated_at": "2026-11-01T21:35:49.534Z",
+      "tags": [
+        "알토르IT기초과정"
+      ],
+      "category": "프로그래밍 기초",
+      "file_path": "05-programming/02-css-js-basics.md",
+      "body_chars": 5084,
+      "image_count": 13
     },
     {
-      "title": "4주차-OSI 1~4계층 네트워크 장비 총정리 — 허브, 스위치, 라우터, 로드밸런서",
-      "url_slug": "4주차-OSI-14계층-네트워크-장비-총정리-허브-스위치-라우터-로드밸런서",
-      "original_url": "https://velog.io/@xjoker7272/4%EC%A3%BC%EC%B0%A8-OSI-14%EA%B3%84%EC%B8%B5-%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC-%EC%9E%A5%EB%B9%84-%EC%B4%9D%EC%A0%95%EB%A6%AC-%ED%97%88%EB%B8%8C-%EC%8A%A4%EC%9C%84%EC%B9%98-%EB%9D%BC%EC%9A%B0%ED%84%B0-%EB%A1%9C%EB%93%9C%EB%B0%B8%EB%9F%B0%EC%84%9C",
-      "released_at": "2026-11-15T03:36:12.123Z",
-      "updated_at": "2026-11-15T03:43:00.316Z",
-      "tags": [],
-      "category": "네트워크",
-      "file_path": "01-network/03-network-devices.md",
-      "body_chars": 13055,
-      "image_count": 0,
-      "status": "extracted"
+      "title": "2주차 과제-SPA/MPA, REACT, 그리고 JSX",
+      "url_slug": "2주차-과제",
+      "original_url": "https://velog.io/@xjoker7272/2%EC%A3%BC%EC%B0%A8-%EA%B3%BC%EC%A0%9C",
+      "released_at": "2026-07-26T02:48:39.307Z",
+      "updated_at": "2026-11-02T07:27:59.714Z",
+      "tags": [
+        "알토르IT기초과정"
+      ],
+      "category": "프로그래밍 기초",
+      "file_path": "05-programming/03-spa-mpa-react-jsx.md",
+      "body_chars": 6669,
+      "image_count": 6
+    },
+    {
+      "title": "3주차 과제-Next.js vs REACT",
+      "url_slug": "3주차-과제-Next.js-vs-REACT",
+      "original_url": "https://velog.io/@xjoker7272/3%EC%A3%BC%EC%B0%A8-%EA%B3%BC%EC%A0%9C-Next.js-vs-REACT",
+      "released_at": "2026-08-02T05:55:17.870Z",
+      "updated_at": "2026-11-08T17:32:01.726Z",
+      "tags": [
+        "알토르IT기초과정"
+      ],
+      "category": "프로그래밍 기초",
+      "file_path": "05-programming/04-nextjs-vs-react.md",
+      "body_chars": 3966,
+      "image_count": 0
+    },
+    {
+      "title": "6주차 SPA,MPA 개념 이해하기",
+      "url_slug": "6주차-SPAMPA-개념-이해하기",
+      "original_url": "https://velog.io/@xjoker7272/6%EC%A3%BC%EC%B0%A8-SPAMPA-%EA%B0%9C%EB%85%90-%EC%9D%B4%ED%95%B4%ED%95%98%EA%B8%B0",
+      "released_at": "2026-08-23T08:51:27.352Z",
+      "updated_at": "2026-11-11T09:40:37.961Z",
+      "tags": [
+        "알토르IT기초과정"
+      ],
+      "category": "프로그래밍 기초",
+      "file_path": "05-programming/05-spa-mpa-concepts.md",
+      "body_chars": 9181,
+      "image_count": 0
+    },
+    {
+      "title": "11주차-DB-RDBMS와 NOSQL",
+      "url_slug": "11주차-DB-RDBMS와-NOSQL",
+      "original_url": "https://velog.io/@xjoker7272/11%EC%A3%BC%EC%B0%A8-DB-RDBMS%EC%99%80-NOSQL",
+      "released_at": "2026-09-28T06:29:14.894Z",
+      "updated_at": "2026-10-18T01:26:30.461Z",
+      "tags": [
+        "알토르IT기초과정"
+      ],
+      "category": "프로그래밍 기초",
+      "file_path": "05-programming/06-rdbms-vs-nosql.md",
+      "body_chars": 2781,
+      "image_count": 0
+    },
+    {
+      "title": "5주차-챗봇 제작, Vercel, 도메인",
+      "url_slug": "5주차-챗봇-제작-Vercel-도메인",
+      "original_url": "https://velog.io/@xjoker7272/5%EC%A3%BC%EC%B0%A8-%EC%B1%97%EB%B4%87-%EC%A0%9C%EC%9E%91-Vercel-%EB%8F%84%EB%A9%94%EC%9D%B8",
+      "released_at": "2026-08-17T03:31:38.884Z",
+      "updated_at": "2026-11-05T12:10:59.833Z",
+      "tags": [
+        "알토르IT기초과정"
+      ],
+      "category": "프로젝트",
+      "file_path": "06-projects/01-chatbot-vercel-domain.md",
+      "body_chars": 2544,
+      "image_count": 2
+    },
+    {
+      "title": "7주차-api 만들기,/sendmessage,챗봇,",
+      "url_slug": "7주차-api-만들기sendmessage챗봇",
+      "original_url": "https://velog.io/@xjoker7272/7%EC%A3%BC%EC%B0%A8-api-%EB%A7%8C%EB%93%A4%EA%B8%B0sendmessage%EC%B1%97%EB%B4%87",
+      "released_at": "2026-08-30T08:31:59.366Z",
+      "updated_at": "2026-11-12T01:33:12.504Z",
+      "tags": [
+        "알토르IT기초과정"
+      ],
+      "category": "프로젝트",
+      "file_path": "06-projects/02-api-sendmessage-chatbot.md",
+      "body_chars": 4976,
+      "image_count": 1
+    },
+    {
+      "title": "Pguso/agents-from-scratch",
+      "url_slug": "Pgusoagents-from-scratch",
+      "original_url": "https://velog.io/@xjoker7272/Pgusoagents-from-scratch",
+      "released_at": "2026-09-29T10:46:31.918Z",
+      "updated_at": "2026-11-11T03:10:40.525Z",
+      "tags": [
+        "dailyCoding"
+      ],
+      "category": "프로젝트",
+      "file_path": "06-projects/03-agents-from-scratch.md",
+      "body_chars": 5819,
+      "image_count": 0
     }
   ]
 }

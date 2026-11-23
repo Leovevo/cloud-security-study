@@ -22,7 +22,8 @@
 | [2주차- OSI 7 Layer](01-network/01-osi-7-layers.md) | 2026-10-25 | [velog](https://velog.io/@xjoker7272/2%EC%A3%BC%EC%B0%A8-OSI-7-Layer) |
 | [3주차-TCP와 UDP의 특징 및 차이점 — 헤더 구조부터 통신 원리까지](01-network/02-tcp-vs-udp.md) | 2026-11-05 | [velog](https://velog.io/@xjoker7272/Network-TCP%EC%99%80-UDP%EC%9D%98-%ED%8A%B9%EC%A7%95-%EB%B0%8F-%EC%B0%A8%EC%9D%B4%EC%A0%90-%ED%97%A4%EB%8D%94-%EA%B5%AC%EC%A1%B0%EB%B6%80%ED%84%B0-%ED%86%B5%EC%8B%A0-%EC%9B%90%EB%A6%AC%EA%B9%8C%EC%A7%80) |
 | [4주차-OSI 1~4계층 네트워크 장비 총정리 — 허브, 스위치, 라우터, 로드밸런서](01-network/03-network-devices.md) | 2026-11-15 | [velog](https://velog.io/@xjoker7272/4%EC%A3%BC%EC%B0%A8-OSI-14%EA%B3%84%EC%B8%B5-%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC-%EC%9E%A5%EB%B9%84-%EC%B4%9D%EC%A0%95%EB%A6%AC-%ED%97%88%EB%B8%8C-%EC%8A%A4%EC%9C%84%EC%B9%98-%EB%9D%BC%EC%9A%B0%ED%84%B0-%EB%A1%9C%EB%93%9C%EB%B0%B8%EB%9F%B0%EC%84%9C) |
-| [\[Network\] 계층별 프로토콜의 특징과 차이점 — FTP, SMTP, POP3, IMAP, ICMP](01-network/04-protocols-ftp-email-icmp.md) | 2026-11-16 | - |
+| [5주차-[Network] 계층별 프로토콜의 특징과 차이점 — FTP, SMTP, POP3, IMAP, ICMP](01-network/04-protocols-by-layer.md) | 2026-11-17 | [velog](https://velog.io/@xjoker7272/5%EC%A3%BC%EC%B0%A8-Network-%EA%B3%84%EC%B8%B5%EB%B3%84-%ED%94%84%EB%A1%9C%ED%86%A0%EC%BD%9C%EC%9D%98-%ED%8A%B9%EC%A7%95%EA%B3%BC-%EC%B0%A8%EC%9D%B4%EC%A0%90-FTP-SMTP-POP3-IMAP-ICMP) |
+| [6주차 — SSH, Telnet, HTTP, HTTPS, DNS의 특징과 차이점](01-network/05-ssh-telnet-http-https-dns.md) | 2026-11-22 | [velog](https://velog.io/@xjoker7272/6%EC%A3%BC%EC%B0%A8-SSH-Telnet-HTTP-HTTPS-DNS%EC%9D%98-%ED%8A%B9%EC%A7%95%EA%B3%BC-%EC%B0%A8%EC%9D%B4%EC%A0%90) |
 
 ### 서버·리눅스 (`02-linux/`)
 
@@ -64,12 +65,12 @@
 
 ## 최근 추가한 글
 
-- [\[Network\] 계층별 프로토콜의 특징과 차이점 — FTP, SMTP, POP3, IMAP, ICMP](01-network/04-protocols-ftp-email-icmp.md) — 2026-11-16
+- [6주차 — SSH, Telnet, HTTP, HTTPS, DNS의 특징과 차이점](01-network/05-ssh-telnet-http-https-dns.md) — 2026-11-22
+- [5주차-[Network] 계층별 프로토콜의 특징과 차이점 — FTP, SMTP, POP3, IMAP, ICMP](01-network/04-protocols-by-layer.md) — 2026-11-17
 - [4주차-OSI 1~4계층 네트워크 장비 총정리 — 허브, 스위치, 라우터, 로드밸런서](01-network/03-network-devices.md) — 2026-11-15
 - [3주차-TCP와 UDP의 특징 및 차이점 — 헤더 구조부터 통신 원리까지](01-network/02-tcp-vs-udp.md) — 2026-11-05
 - [2주차- OSI 7 Layer](01-network/01-osi-7-layers.md) — 2026-10-25
-- [1주차-클라우드는 안전한데 왜 사고가 날까?](04-cloud-security/01-why-cloud-incidents-happen.md) — 2026-10-11
 
 ---
 
-총 17편 · 최종 갱신 2026-11-16
+총 18편 · 최종 갱신 2026-11-23
